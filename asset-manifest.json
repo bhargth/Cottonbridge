@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Cottonbridge.git/static/css/main.2b92940d.css",
+    "main.js": "/Cottonbridge.git/static/js/main.8889ec42.js",
+    "static/js/787.7847c26a.chunk.js": "/Cottonbridge.git/static/js/787.7847c26a.chunk.js",
+    "static/media/mainimage.jpg": "/Cottonbridge.git/static/media/mainimage.1f1c601810d5d46229dc.jpg",
+    "static/media/farmertoretail.jpg": "/Cottonbridge.git/static/media/farmertoretail.916e21a2702d429cb621.jpg",
+    "index.html": "/Cottonbridge.git/index.html",
+    "main.2b92940d.css.map": "/Cottonbridge.git/static/css/main.2b92940d.css.map",
+    "main.8889ec42.js.map": "/Cottonbridge.git/static/js/main.8889ec42.js.map",
+    "787.7847c26a.chunk.js.map": "/Cottonbridge.git/static/js/787.7847c26a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b92940d.css",
+    "static/js/main.8889ec42.js"
+  ]
+}
